@@ -16,4 +16,6 @@ snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/clie
 r-<r-version>-<YYYY>-<MM>-<DD>
 ```
 
-2. https://mybinder.org/v2/gh/HSCI805/template/HEAD?labpath=index.ipynb
+2. https://mybinder.org/v2/gh/HSCI805/template/master?labpath=index.ipynb
+
+http://mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb
