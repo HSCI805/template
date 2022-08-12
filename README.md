@@ -11,11 +11,13 @@ snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/clie
 
 ### Steps
 
-1. update `runtime.txt`:
+1. Fork this repository
+
+2. Update `runtime.txt` with newer date:  
 ```
 r-<r-version>-<YYYY>-<MM>-<DD>
 ```
+- Newer date: visit https://packagemanager.rstudio.com/client/# and choose a date surrounded by a solid bounding box 
 
-2. https://mybinder.org/v2/gh/HSCI805/template/master?labpath=index.ipynb
+3. Visit https://mybinder.org/ and enter github's URL 
 
-http://mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb
